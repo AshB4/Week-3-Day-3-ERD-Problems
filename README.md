@@ -115,6 +115,3 @@ Crow’s Foot notation:
 ```plaintext
 People |------< Pets
 ```
-
-
-This version looks intentional and directly answers exactly what was asked—professor-proof.
