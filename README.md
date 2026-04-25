@@ -1,13 +1,5 @@
 # Week-3-Day-3-ERD-Problems
 
-Yep—this looks cleaner and more deliberate because it mirrors the professor’s exact prompts word-for-word. That makes grading easier and avoids the “you didn’t answer the question directly” nonsense.
-
-Use this:
-
----
-
-# Entity Relationship Diagram (ERD) Assignment
-
 ## 1. How are entities defined and represented in the Entity Relationship Diagram (ERD)?
 
 Entities are real-world objects, people, places, or concepts that store information in a database. They are represented as tables or rectangles in an ERD.
